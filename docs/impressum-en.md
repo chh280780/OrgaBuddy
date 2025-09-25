@@ -1,3 +1,8 @@
+---
+layout: default
+title: Legal Notice
+---
+
 ## Legal Notice (Imprint)
 
 ### Provider
