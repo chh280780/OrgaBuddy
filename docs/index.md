@@ -8,3 +8,4 @@ Willkommen auf der Support- und Informationsseite von OrgaBuddy.
 - [Privacy Policy (EN)](privacy-en.md)
 - [Nutzungsbedingungen (DE)](terms-de.md)
 - [Terms of Use (EN)](terms-en.md)
+- [Support / Issues](issues.md)
